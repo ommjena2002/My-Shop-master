@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893438533202",
+    "project_id": "my-resume-bab20",
+    "storage_bucket": "my-resume-bab20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893438533202:android:0c80709307c2b17638098b",
+        "android_client_info": {
+          "package_name": "com.techchallengers.myresume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893438533202-gf2be7vcq3db3p6tftkdi9oqasrgvg9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techchallengers.myresume",
+            "certificate_hash": "98d6a8dbd94224f37053bef2e2ab4f1bceda138d"
+          }
+        },
+        {
+          "client_id": "893438533202-fnjh82t7grrl2qte61tf0u4ee22i9ku1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIRPZD5a49xEc6ZL1-PeJZ2Dc0jbwwb_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893438533202-fnjh82t7grrl2qte61tf0u4ee22i9ku1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
